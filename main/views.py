@@ -1,3 +1,9 @@
-from django.shortcuts import render
+from rest_framework.generics import ListAPIView
 
-# Create your views here.
+from main.models import FrameworkModel
+from main.serializers import FrameworkListSerializer
+
+
+class FrameworkListAPIView(ListAPIView):
+    queryset = FrameworkModel.objects.all()
+    serializer_class = FrameworkListSerializer
