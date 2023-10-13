@@ -13,7 +13,6 @@ class MainTestCase(APITestCase):
             language='Test language'
         )
 
-
     def test_list_framework(self):
         """ Тестирование отображения списка фреймворков """
 

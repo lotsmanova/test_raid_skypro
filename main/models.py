@@ -1,7 +1,7 @@
 from django.db import models
 
-class FrameworkModel(models.Model):
 
+class FrameworkModel(models.Model):
     name = models.CharField(max_length=200, verbose_name='название')
     language = models.CharField(max_length=200, verbose_name='язык программирования')
 
