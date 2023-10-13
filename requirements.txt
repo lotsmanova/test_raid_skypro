@@ -5,3 +5,5 @@ djangorestframework
 drf-yasg
 psycopg2-binary
 python-dotenv
+django-filter
+flake8

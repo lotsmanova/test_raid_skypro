@@ -1,0 +1,42 @@
+[
+  {
+    "model": "main.frameworkmodel",
+    "pk": 1,
+    "fields": {
+      "name": "React",
+      "language": "Javascript"
+    }
+  },
+  {
+    "model": "main.frameworkmodel",
+    "pk": 2,
+    "fields": {
+      "name": "Vue",
+      "language": "Javascript"
+    }
+  },
+  {
+    "model": "main.frameworkmodel",
+    "pk": 3,
+    "fields": {
+      "name": "FastApi",
+      "language": "Python"
+    }
+  },
+  {
+    "model": "main.frameworkmodel",
+    "pk": 4,
+    "fields": {
+      "name": "Laravel",
+      "language": "PHP"
+    }
+  },
+  {
+    "model": "main.frameworkmodel",
+    "pk": 5,
+    "fields": {
+      "name": "Spring",
+      "language": "Java"
+    }
+  }
+]
