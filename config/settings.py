@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-i*ipk$s(4^l25&d@j92m)fgc1sqx9znl+@6p!lk^igovup5#19
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['raid-skypro.onrender.com']
 
 
 # Application definition
