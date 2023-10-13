@@ -1,0 +1,7 @@
+coverage
+Django
+django-cors-headers
+djangorestframework
+drf-yasg
+psycopg2-binary
+python-dotenv
